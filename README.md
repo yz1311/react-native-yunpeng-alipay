@@ -5,7 +5,7 @@ React Native Module for alipay.com
 ## install
 
 ```
-npm install react-native-yunpeng-alipay --save
+npm install @yz1311/react-native-yunpeng-alipay --save
 ```
 
 ## Android
@@ -13,7 +13,7 @@ npm install react-native-yunpeng-alipay --save
 ### With rnpm
 
 ```
-rnpm link react-native-yunpeng-alipay
+rnpm link @yz1311/react-native-yunpeng-alipay
 ```
 
 ### Manually
@@ -22,7 +22,7 @@ rnpm link react-native-yunpeng-alipay
 
 ```
 include ':react-native-yunpeng-alipay'
-project(':react-native-yunpeng-alipay').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-yunpeng-alipay/android')
+project(':react-native-yunpeng-alipay').projectDir = new File(rootProject.projectDir, '../node_modules/@yz1311/react-native-yunpeng-alipay/android')
 ```
 
 * android/app/build.gradle
