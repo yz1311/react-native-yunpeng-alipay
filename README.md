@@ -59,7 +59,7 @@ public class MainActivity extends ReactActivity {
 ### With rnpm
 
 ```
-rnpm link react-native-yunpeng-alipay
+rnpm link @yz1311/react-native-yunpeng-alipay
 ```
 
 ### Manually
@@ -93,7 +93,7 @@ rnpm link react-native-yunpeng-alipay
 ### General Usage
 
 ```javascript
-import Alipay from 'react-native-yunpeng-alipay';
+import Alipay from '@yz1311/react-native-yunpeng-alipay';
 
 ```
 

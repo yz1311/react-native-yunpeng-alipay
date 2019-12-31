@@ -1,6 +1,6 @@
 {
   "name": "@yz1311/react-native-yunpeng-alipay",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "alipay module for react native from yunpeng",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
     "yunpeng"
   ],
   "author": "m2mbob",
+  "homepage": "https://github.com/yz1311/react-native-http-cache.git",
   "license": "MIT"
 }
